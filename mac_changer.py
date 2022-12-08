@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-#beta file not finished my project
+#beta file not finished yet
 
 '''Md Delwar Hossain Dipu
     Saudi Arabia'''
